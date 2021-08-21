@@ -37,4 +37,5 @@ type Query {
     removeBook(bookId: String!): User
   }
 `;
+
 module.exports = typeDefs;
